@@ -1,0 +1,11 @@
+body{
+	background-image :url('../img/p9.jpg');
+	background-size:100% auto;
+}
+.container{
+	
+	background: black;
+	background:rgba(0,0,0,0.4);
+	min-height:680px; auto;
+	color:white;
+}
